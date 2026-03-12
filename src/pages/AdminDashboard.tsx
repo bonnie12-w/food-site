@@ -92,7 +92,7 @@ const AdminDashboard = () => {
             </Link>
             <div>
               <h1 className="font-display text-lg font-bold gold-gradient-text">Admin Dashboard</h1>
-              <p className="text-[10px] text-muted-foreground tracking-wider uppercase">Savannah Flame Grill</p>
+              <p className="text-[10px] text-muted-foreground tracking-wider uppercase">Oliveira Restaurant</p>
             </div>
           </div>
           <div className="flex items-center gap-3">
@@ -397,7 +397,7 @@ const AdminDashboard = () => {
               </div>
 
               <div className="mt-6 p-4 rounded-xl bg-primary/10 border border-primary/20">
-                <p className="text-xs text-primary">📧 Email summary sent to admin@savannahflame.co.ke</p>
+                <p className="text-xs text-primary">📧 Email summary sent to admin@OliveiraRestaurant.co.ke</p>
               </div>
             </div>
           </motion.div>
