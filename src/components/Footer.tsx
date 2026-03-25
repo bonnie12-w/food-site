@@ -9,12 +9,12 @@ const Footer = () => {
             <div className="flex items-center gap-2 mb-4">
               <span className="text-2xl">🔥</span>
               <div>
-                <h3 className="font-display text-xl font-bold gold-gradient-text">ROAST BY CARNIVORE</h3>
+                <h3 className="font-display text-xl font-bold gold-gradient-text">Heavenly Foods Ke</h3>
                 <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground">RC</p>
               </div>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Nairobi's premier flame grill restaurant. Premium steaks, authentic Kenyan cuisine, and an unforgettable dining experience.
+              Nairobi's premier flame grill restaurant. Premium steaks, TASTE THE MOMENT!!
             </p>
           </div>
 
@@ -28,10 +28,10 @@ const Footer = () => {
                 <Phone className="w-4 h-4 text-primary" /> +254 712 345 678
               </p>
               <p className="flex items-center gap-3">
-                <Mail className="w-4 h-4 text-primary" /> hello@roastatthehubkaren.co.ke
+                <Mail className="w-4 h-4 text-primary" /> hello@HeavenlyFoodsKe.co.ke
               </p>
               <p className="flex items-center gap-3">
-                <Instagram className="w-4 h-4 text-primary" /> @ROAST BY CARNIVORE
+                <Instagram className="w-4 h-4 text-primary" /> @HeavenlyFoodsKe
               </p>
             </div>
           </div>
@@ -51,7 +51,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-border mt-12 pt-8 text-center text-xs text-muted-foreground/50">
-          © 2026 ROAST BY CARNIVORE. All rights reserved.
+          © 2026 Heavenly Foods Ke. All rights reserved.
         </div>
       </div>
     </footer>
