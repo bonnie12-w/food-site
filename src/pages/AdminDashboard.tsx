@@ -92,7 +92,7 @@ const AdminDashboard = () => {
             </Link>
             <div>
               <h1 className="font-display text-lg font-bold gold-gradient-text">Admin Dashboard</h1>
-              <p className="text-[10px] text-muted-foreground tracking-wider uppercase">Heavenly foods</p>
+              <p className="text-[10px] text-muted-foreground tracking-wider uppercase">Under The Radar</p>
             </div>
           </div>
           <div className="flex items-center gap-3">
