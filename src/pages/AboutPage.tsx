@@ -87,8 +87,8 @@ const AboutPage = () => {
               {[
                 { icon: MapPin, text: "Nairobi, Kenya" },
                 { icon: Phone, text: "+254 712 345 678" },
-                { icon: Mail, text: "hello@HeavenlyFoodsKe.co.ke" },
-                { icon: Instagram, text: "@HeavenlyFoodsKe" },
+                { icon: Mail, text: "hello@Undertheradar.co.ke" },
+                { icon: Instagram, text: "@Under The Radar" },
                 { icon: Clock, text: "Mon – Sun: 11:00 AM – 11:00 PM" },
               ].map((item, i) => (
                 <p key={i} className="flex items-center gap-4 text-muted-foreground">
